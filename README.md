@@ -5,5 +5,5 @@ Data Scientist
 --------------
 
 * 🌍  I'm based in Chur
-* 🧠  I'm learning amazing technologies
+* 🧠  I'm learning technologies for data engineer
 * 🤝  I'm open to collaborating on professional projects
